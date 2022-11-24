@@ -10,7 +10,7 @@ The data is downloaded from:
 ## Installation
 After cloning the repository follow the steps below:
 
-Create a new environment variable called `SECRET_KEY` and assign a value to it that will be your secret key.
+Create a new environment variable called `SECRET_KEY` and assign a value to it. The value will be your secret key.
 
 Create a new virtual environment.
 ```
