@@ -7,7 +7,7 @@ REST API that combines two existing APIs and offers you an activity for each day
 
 [`About the issue`](https://github.com/DB-db-dron/weatherDB/issues/12)
 
-`Getting a new weekly schedule method will be possible from next month`
+`Getting a new schedule will be possible from next month`
 
 
 The data is downloaded from:
