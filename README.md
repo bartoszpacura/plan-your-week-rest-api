@@ -4,7 +4,9 @@ REST API that combines two existing APIs and offers you an activity for each day
 
 
 `weatherDB API is not working`
-`https://github.com/DB-db-dron/weatherDB/issues/12`
+
+[`About the issue`](https://github.com/DB-db-dron/weatherDB/issues/12)
+
 `Getting a new weekly schedule method will be possible from next month`
 
 
