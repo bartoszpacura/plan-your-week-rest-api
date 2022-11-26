@@ -1,6 +1,6 @@
 # Plan Your Week
 
-REST API that combines two existing APIs and offers you an activity for each day of the week depending on the weather.
+REST API that combines two existing APIs and offers you an activity for each day of the week depending on the weather. In addition, the API allows you to save and manipulate data in the database.
 
 
 The data is downloaded from:
