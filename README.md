@@ -3,16 +3,16 @@
 REST API that combines two existing APIs and offers you an activity for each day of the week depending on the weather.
 
 
+The data is downloaded from:
+* https://weatherdbi.herokuapp.com/
+* https://www.boredapi.com/
+
+
 `weatherDB API is not working`
 
 [`About the issue`](https://github.com/DB-db-dron/weatherDB/issues/12)
 
 `Getting a new schedule will be possible from next month`
-
-
-The data is downloaded from:
-* https://weatherdbi.herokuapp.com/
-* https://www.boredapi.com/
 
 
 ## Installation
