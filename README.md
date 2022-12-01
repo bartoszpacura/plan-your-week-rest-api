@@ -8,13 +8,6 @@ The data is downloaded from:
 * https://www.boredapi.com/
 
 
-`weatherDB API is not working`
-
-[`About the issue`](https://github.com/DB-db-dron/weatherDB/issues/12)
-
-`Getting a new schedule will be possible from next month`
-
-
 ## Installation
 After cloning the repository follow the steps below:
 
