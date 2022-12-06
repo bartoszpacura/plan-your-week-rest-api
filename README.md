@@ -11,7 +11,7 @@ The data is downloaded from:
 
 [`About the issue`](https://github.com/DB-db-dron/weatherDB/issues/12)
 
-`Getting a new schedule will be possible from next month`
+`I'm currently working on connecting to a different weather API.`
 
 ## Installation
 After cloning the repository follow the steps below:
