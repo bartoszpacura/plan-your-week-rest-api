@@ -4,14 +4,8 @@ REST API that combines two existing APIs and offers you an activity for each day
 
 
 The data is downloaded from:
-* https://weatherdbi.herokuapp.com/
+* https://openweathermap.org/
 * https://www.boredapi.com/
-
-`weatherDB API is not working`
-
-[`About the issue`](https://github.com/DB-db-dron/weatherDB/issues/12)
-
-`I'm currently working on connecting to a different weather API.`
 
 ## Installation
 After cloning the repository follow the steps below:
