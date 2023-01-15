@@ -4,7 +4,7 @@ from .get_info import get_info_activity
 def get_activity_data(forecast):
     week = []
 
-    for i in range(7):
+    for i in range(5):
         day = forecast[i][0]
         weather = forecast[i][1]
         flag = False
