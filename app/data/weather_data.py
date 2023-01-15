@@ -20,7 +20,6 @@ def get_weather_data(location):
         weather = weather_list['description']
 
         if "15:00:00" in date:
-            print(date, year, month, day, weather)
             week_day = datetime.date(year=int(year), month=int(month), day=int(day)).weekday()
             days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
             forecast.append([days[week_day], weather])
